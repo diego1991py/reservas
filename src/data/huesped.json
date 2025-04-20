@@ -1,0 +1,20 @@
+[
+    {
+        "id_huesped": 1,
+        "name": "Diego",
+        "correo": "diego@gmail.com",
+        "telefono": "3214569696"
+    },
+    {
+        "id_huesped": 2,
+        "name": "Samuel",
+        "correo": "samuel@gmail.com",
+        "telefono": "3214569696"
+    },
+    {
+        "id_huesped": 3,
+        "name": "Matias",
+        "correo": "matias@gmail.com",
+        "telefono": "3214569887"
+    }
+]
