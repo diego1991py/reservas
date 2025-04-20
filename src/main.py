@@ -13,6 +13,7 @@ registro_logs = RegistroLogs()
 while True:
     print("\n1. Registrar Huesped")
     print("2. Mostrar Huespedes")
+    
     print("3. Salir")
     opcion = input("Seleccione una opción: ")
 
