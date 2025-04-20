@@ -3,18 +3,6 @@
         "id_huesped": 1,
         "nombre": "Diego",
         "correo": "diego@gmail.com",
-        "telefono": "3214569696"
-    },
-    {
-        "id_huesped": 2,
-        "nombre": "Samuel",
-        "correo": "samuel@gmail.com",
-        "telefono": "3214569696"
-    },
-    {
-        "id_huesped": 3,
-        "nombre": "Matias",
-        "correo": "matias@gmail.com",
-        "telefono": "3214569887"
+        "telefono": "321566363"
     }
 ]

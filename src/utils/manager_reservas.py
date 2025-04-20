@@ -20,6 +20,13 @@ class ManagerReservas:
             print("El archivo no existe o está vacío. Se creará uno nuevo.")
             self.reservas = []
 
+    def agregar_id(self):
+        if self.reservas:
+            max_id = max(reserva["id_reserva"] for reserva in self.reservas)
+            return max_id + 1
+        else:
+            return 1
+
     def nuevo_registro(self, diccionario_reserva):
         self.reservas.append(diccionario_reserva)
 

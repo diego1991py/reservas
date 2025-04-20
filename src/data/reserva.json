@@ -1,18 +1,10 @@
 [
     {
-        "id_reserva": 4,
+        "id_reserva": 1,
         "id_cliente": 1,
         "id_habitacion": 25,
-        "fecha_inicio": "2025-12-18",
-        "dias_reserva": 8,
-        "fecha_fin": "2025-12-26"
-    },
-    {
-        "id_reserva": 5,
-        "id_cliente": 2,
-        "id_habitacion": 26,
-        "fecha_inicio": "2025-10-12",
-        "dias_reserva": 25,
-        "fecha_fin": "2025-11-06"
+        "fecha_inicio": "2025-07-03",
+        "dias_reserva": 5,
+        "fecha_fin": "2025-07-08"
     }
 ]
