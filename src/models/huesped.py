@@ -1,7 +1,6 @@
 import sys
 from pathlib import Path
-sys.path.append(str(Path(__file__).parent.parent))  # Añade la raíz al path
-from utils.manager_huesped import ManagerHuesped
+sys.path.append(str(Path(__file__).parent.parent))
 from models.persona import Persona
 
 
