@@ -1,19 +1,19 @@
 [
     {
         "id_huesped": 1,
-        "name": "Diego",
+        "nombre": "Diego",
         "correo": "diego@gmail.com",
         "telefono": "3214569696"
     },
     {
         "id_huesped": 2,
-        "name": "Samuel",
+        "nombre": "Samuel",
         "correo": "samuel@gmail.com",
         "telefono": "3214569696"
     },
     {
         "id_huesped": 3,
-        "name": "Matias",
+        "nombre": "Matias",
         "correo": "matias@gmail.com",
         "telefono": "3214569887"
     }

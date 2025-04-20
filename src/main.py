@@ -11,7 +11,7 @@ registro_logs = RegistroLogs()
 
 
 while True:
-    print("1. Registrar Huesped")
+    print("\n1. Registrar Huesped")
     print("2. Mostrar Huespedes")
     print("3. Salir")
     opcion = input("Seleccione una opción: ")
@@ -29,8 +29,7 @@ while True:
         print(f"Huesped registrado: {nuevo_huesped}")
 
     elif opcion == "2":
-        for huesped in manager_huesped.huespedes:
-            print(huesped)
+            manager_huesped.__str__()
 
     elif opcion == "3":
         break

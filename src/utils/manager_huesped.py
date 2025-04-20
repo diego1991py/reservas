@@ -30,3 +30,9 @@ class ManagerHuesped:
     def guardar_huespedes(self):
         with open(ruta_archivo, 'w', encoding="utf-8") as file:
             json.dump(self.huespedes, file, indent=4)
+
+    def __str__(self):
+        for huesped in self.huespedes:
+            print(f"{"id"}: {huesped["id_huesped"]}, {"nombre"}: {huesped["nombre"]}, {"correo"}: {huesped["correo"]}, {"telefono"}: {huesped["telefono"]}")
+                
+        
